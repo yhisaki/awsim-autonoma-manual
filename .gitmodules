@@ -1,0 +1,3 @@
+[submodule "src/sim-msgs"]
+	path = src/sim-msgs
+	url = https://github.com/autonomalabs/sim-msgs.git

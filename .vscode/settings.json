@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/parttime/workspace/awsim-autonoma-manual/install/vectornav_msgs/local/lib/python3.10/dist-packages",
+        "/home/parttime/workspace/awsim-autonoma-manual/install/novatel_oem7_msgs/local/lib/python3.10/dist-packages",
+        "/home/parttime/workspace/awsim-autonoma-manual/build/awsim_autonoma_manual",
+        "/home/parttime/workspace/awsim-autonoma-manual/install/awsim_autonoma_manual/lib/python3.10/site-packages",
+        "/home/parttime/workspace/awsim-autonoma-manual/install/autonoma_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/parttime/workspace/awsim-autonoma-manual/install/vectornav_msgs/local/lib/python3.10/dist-packages",
+        "/home/parttime/workspace/awsim-autonoma-manual/install/novatel_oem7_msgs/local/lib/python3.10/dist-packages",
+        "/home/parttime/workspace/awsim-autonoma-manual/build/awsim_autonoma_manual",
+        "/home/parttime/workspace/awsim-autonoma-manual/install/awsim_autonoma_manual/lib/python3.10/site-packages",
+        "/home/parttime/workspace/awsim-autonoma-manual/install/autonoma_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
